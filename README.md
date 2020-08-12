@@ -8,22 +8,22 @@ Some of the exercises, are work from the great community contributors Laurence M
 Contents:
 1. Simple Neural Networks with Linear Models
 2. Convolutional Neural Networks
-  1. Layer Output Calculation formulas
-  2. Filters' output calculation
-  3. MaxPooling
+    1. Layer Output Calculation formulas
+    2. Filters' output calculation
+    3. MaxPooling
 3. Python Toolkit for directories, files and folders uncompressing, processing to randomly allocating images into training and validation directories.
 4. Keras Images and Data Preprocessing toolkit to automatically:
-  1. Rescale Images from random sizes to a specific size
-  2. Convert to Numpy arrays
-  3. Convert to Float32
-  4. Manage Colors and grayScale
+    1. Rescale Images from random sizes to a specific size
+    2. Convert to Numpy arrays
+    3. Convert to Float32
+    4. Manage Colors and grayScale
 5. Implement Augmentation with Keras
-  1. Image rotation
-  2. width_shift_range, height_shift_range
-  3. Horizontal and vertical flip
-  4. Shear
-  5. Brightness
-  6. Fill mode
+    1. Image rotation
+    2. width_shift_range, height_shift_range
+    3. Horizontal and vertical flip
+    4. Shear
+    5. Brightness
+    6. Fill mode
 6. Transfer Learning
   
 
